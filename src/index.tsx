@@ -1,9 +1,9 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
-import { Hello } from "./components/Hello";
+import { ProfileInput } from "./components/ProfileInput";
 
 ReactDOM.render(
-    <Hello compiler="TypeScript" framework="React" />,
-    document.getElementById("example")
+    <ProfileInput compiler="TypeScript" framework="React" />,
+    document.getElementById("profile")
 );
