@@ -62,3 +62,16 @@ body.buddypress .entry-title {
 .bp-user #settings-personal-li {
 	display: none;
 }
+
+/* Nathan */
+.buddypress-wrap .tabbed-links ol, .buddypress-wrap .tabbed-links ul {
+	margin: 0px;
+}
+
+.bp-single-vert-nav .bp-navs.vertical li {
+	float: left;
+}
+
+.buddypress-wrap.bp-vertical-navs .dir-navs.activity-nav-tabs ul li.selected, .buddypress-wrap.bp-vertical-navs .dir-navs.groups-nav-tabs ul li.selected, .buddypress-wrap.bp-vertical-navs .dir-navs.members-nav-tabs ul li.selected, .buddypress-wrap.bp-vertical-navs .dir-navs.sites-nav-tabs ul li.selected, .buddypress-wrap.bp-vertical-navs .main-navs.group-nav-tabs ul li.selected, .buddypress-wrap.bp-vertical-navs .main-navs.user-nav-tabs ul li.selected {
+	border: 0px;
+}
