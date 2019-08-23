@@ -1,0 +1,64 @@
+.site-branding {
+	display:none;
+}
+
+body {
+	font-family: 'Tahoma', sans-serif;
+		background: url('https://www.grilledcheesehappyhour.com/wp-content/uploads/2019/08/dreamstime_xs_123521409.jpg') center center fixed; 
+}
+
+.site-footer {
+	border: 0;
+}
+
+.site-footer .widget-area {
+	padding:0;
+	margin:0;
+}
+.widget_mo_oauth_widget {
+	padding:0; 
+	margin:0;
+}
+.site-content-contain {
+		background: url('https://www.grilledcheesehappyhour.com/wp-content/uploads/2019/08/dreamstime_xs_123521409.jpg') center center fixed; 
+}
+body.buddypress .entry-title {
+	display: none;
+}
+
+.navigation-top  {
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 1em;
+	text-transform: uppercase;
+	box-shadow: rgba(0,0,0,.3) 0px 2px 5px;
+}
+.navigation-top .wrap {
+	box-shadow: none;
+}
+
+
+.page .panel-content .entry-title, .page-title, body.page:not(.twentyseventeen-front-page) .entry-title {
+		font-family: 'Trebuchet MS', sans-serif;
+		font-size: 1.6em;
+    letter-spacing: 0;
+	text-transform: none;
+	font-weight: 400;
+}
+
+.navigation-top  .current-menu-item {
+	box-shadow: rgba(0,0,0,.3) 0px 0px 6px inset;
+	border: 1px solid rgba(0,0,0,.3); 
+	background: rgba(200, 200, 200, .1);
+}
+
+.wrap  {
+	padding: 10px;
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: rgba(0,0,0,.3) 0px 0px 4px
+}
+
+
+.bp-user #settings-personal-li {
+	display: none;
+}
